@@ -5,7 +5,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.dicoding.android.bfaa_submission3.data.User
 import com.dicoding.android.bfaa_submission3.databinding.ItemUserBinding
-import com.dicoding.android.bfaa_submission3.detail.favorite.FavoriteActivity
 import com.dicoding.android.bfaa_submission3.util.loadImage
 
 class UserAdapter(private val callback: UserCallback) :
